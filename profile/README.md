@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="./assets/scorpion.jpg" width="260" alt="Kodovye scorpion" />
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.jpg" width="260" alt="Kodovye scorpion" />
 
 <br/>
 <br/>
@@ -226,10 +226,10 @@
 ## Analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats-nu-seven-56.vercel.app/api?username=kodovye&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000B2E&title_color=00AAFF&icon_color=00AAFF&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=14400" />
+  <img height="180" src="https://github-readme-stats-nu-seven-56.vercel.app/api?username=kodovye&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000B2E&title_color=00AAFF&icon_color=00AAFF&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=14400" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats-nu-seven-56.vercel.app/api/top-langs/?username=kodovye&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000B2E&title_color=00AAFF&text_color=c9d1d9&langs_count=8&hide=html,css&cache_seconds=14400" />
+  <img height="180" src="https://github-readme-stats-nu-seven-56.vercel.app/api/top-langs/?username=kodovye&layout=compact&theme=tokyonight&hide_border=true&bg_color=000B2E&title_color=00AAFF&text_color=c9d1d9&langs_count=8&hide=html,css&cache_seconds=14400" />
 </a>
 
 <br/>
