@@ -48,8 +48,8 @@
   <g font-family="'Courier New', 'Consolas', 'Monaco', monospace" text-anchor="start">
     <text x="380" y="140" font-size="96" font-weight="900" fill="url(#textGrad)" letter-spacing="14" filter="url(#glow)">KODOVYE</text>
     <line x1="380" y1="170" x2="1050" y2="170" stroke="#00AAFF" stroke-opacity="0.35" stroke-width="1"/>
-    <text x="380" y="210" font-size="22" font-weight="600" fill="#00AAFF" letter-spacing="3">OFFENSIVE SECURITY · PRIVACY TOOLS · INTERNET FREEDOM</text>
-    <text x="380" y="250" font-size="14" font-weight="400" fill="#66BBFF" letter-spacing="2" opacity="0.7">// a collective of builders, breakers, and operators</text>
+    <text x="380" y="210" font-size="22" font-weight="600" fill="#00AAFF" letter-spacing="3">PRODUCT ENGINEERING · OFFENSIVE RESEARCH · PRIVACY</text>
+    <text x="380" y="250" font-size="14" font-weight="400" fill="#66BBFF" letter-spacing="2" opacity="0.7">// builders, breakers, and researchers — under one banner</text>
     <text x="380" y="275" font-size="13" font-weight="400" fill="#4499EE" letter-spacing="1" opacity="0.6">$ established — 2025 · kodovye.biz</text>
   </g>
 </svg>

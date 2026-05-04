@@ -34,14 +34,20 @@
 
 </div>
 
-> **Kodovye** — коллектив инженеров, исследователей и операторов.
+> **Kodovye** — коллектив инженеров, исследователей и разработчиков.
 >
-> Мы пишем то, что другим не под силу: эксплоиты, RAT, инструменты OSINT и
-> социальной инженерии. Мы возвращаем людям контроль над их связью: VPN, обход
-> ТСПУ и белых списков, анти-цензурные протоколы.
+> С одной стороны — мы пишем эксплоиты, RAT, инструменты OSINT и социальной
+> инженерии, обходим ТСПУ и блокировки, исследуем уязвимости.
 >
-> Наше кредо — **код как оружие и как щит**. Мы работаем на себя, пишем
-> для своих, и оставляем за собой право молчать.
+> С другой — мы строим **большие, сложные, реальные продукты**: маркеты,
+> платформы, распределённые системы, fullstack-приложения, инфраструктуру и
+> автоматизацию любого масштаба.
+>
+> Мы умеем взять что угодно — от низкоуровневого payload до production-ready
+> распределённого сервиса — и довести до работающего результата.
+>
+> Наше кредо — **код как оружие, как щит и как ремесло**. Мы работаем на себя,
+> пишем для своих, и оставляем за собой право молчать.
 
 ---
 
@@ -52,13 +58,33 @@
 <br/>
 <br/>
 
-| **Offensive** | **Privacy** | **Intelligence** | **Engineering** |
+</div>
+
+### <img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="18" align="top" />&nbsp; Security & Research
+
+<div align="center">
+
+| Offensive | Privacy & Evasion | Intelligence |
+|:---:|:---:|:---:|
+| Exploit Research | VPN & Tunnels | OSINT |
+| RAT / C2 Frameworks | TSPU Bypass | Recon & Footprinting |
+| Social Engineering | Anti-DPI | Data Mining |
+| Red Teaming | Protocol Obfuscation | Threat Intelligence |
+| Payload Development | Anonymity Networks | Deep-Web Research |
+
+</div>
+
+### <img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="18" align="top" />&nbsp; Product & Engineering
+
+<div align="center">
+
+| Backend | Frontend | Automation | Infrastructure |
 |:---:|:---:|:---:|:---:|
-| Exploit Research | VPN & Tunnels | OSINT | Backend / API |
-| RAT / C2 | TSPU Bypass | Recon | Automation |
-| Social Engineering | Anti-DPI | Data Mining | Bots & Scrapers |
-| Red Teaming | Protocol Obfuscation | Threat Intel | Fullstack |
-| Payload Development | Anonymity Networks | Deep-Web Research | Tooling |
+| REST / GraphQL APIs | React / Next.js | Web Scraping at Scale | Distributed Systems |
+| Microservices | Vue / Nuxt | Bot Networks | Container Orchestration |
+| WebSockets / Realtime | Mobile (RN / Flutter) | CI/CD Pipelines | Custom Cloud |
+| Marketplaces & Payments | Dashboards / Admin | Data Pipelines | High-load Optimization |
+| Telegram Platforms | UI/UX Engineering | Browser Automation | Networking & Routing |
 
 </div>
 
@@ -161,15 +187,15 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **OPERATORS**
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **CORE** &nbsp;·&nbsp; <sub>ядро клана</sub>
 
 <br/>
 <br/>
 
-<a href="https://github.com/xirnu"><img src="https://github.com/xirnu.png" width="90" height="90" style="border-radius:50%" alt="xirnu" /></a>
 <a href="https://github.com/HopeXZ"><img src="https://github.com/HopeXZ.png" width="90" height="90" style="border-radius:50%" alt="HopeXZ" /></a>
 <a href="https://github.com/MitsukiNemurez"><img src="https://github.com/MitsukiNemurez.png" width="90" height="90" style="border-radius:50%" alt="MitsukiNemurez" /></a>
 <a href="https://github.com/Pomidor8639"><img src="https://github.com/Pomidor8639.png" width="90" height="90" style="border-radius:50%" alt="Pomidor8639" /></a>
+<a href="https://github.com/xirnu"><img src="https://github.com/xirnu.png" width="90" height="90" style="border-radius:50%" alt="xirnu" /></a>
 
 <br/>
 <br/>
