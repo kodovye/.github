@@ -192,10 +192,7 @@
 <br/>
 
 <!-- CORE:START -->
-<a href="https://github.com/HopeXZ"><img src="https://github.com/HopeXZ.png" width="90" height="90" style="border-radius:50%" alt="HopeXZ" /></a>
-<a href="https://github.com/MitsukiNemurez"><img src="https://github.com/MitsukiNemurez.png" width="90" height="90" style="border-radius:50%" alt="MitsukiNemurez" /></a>
-<a href="https://github.com/Pomidor8639"><img src="https://github.com/Pomidor8639.png" width="90" height="90" style="border-radius:50%" alt="Pomidor8639" /></a>
-<a href="https://github.com/xirnu"><img src="https://github.com/xirnu.png" width="90" height="90" style="border-radius:50%" alt="xirnu" /></a>
+<table align="center"><tr><td align="center" width="110"><a href="https://github.com/HopeXZ"><img src="https://github.com/HopeXZ.png" width="90" height="90" style="border-radius:50%" alt="HopeXZ" /><br/><sub><b>HopeXZ</b></sub></a></td><td align="center" width="110"><a href="https://github.com/MitsukiNemurez"><img src="https://github.com/MitsukiNemurez.png" width="90" height="90" style="border-radius:50%" alt="MitsukiNemurez" /><br/><sub><b>MitsukiNemurez</b></sub></a></td><td align="center" width="110"><a href="https://github.com/Pomidor8639"><img src="https://github.com/Pomidor8639.png" width="90" height="90" style="border-radius:50%" alt="Pomidor8639" /><br/><sub><b>Pomidor8639</b></sub></a></td><td align="center" width="110"><a href="https://github.com/xirnu"><img src="https://github.com/xirnu.png" width="90" height="90" style="border-radius:50%" alt="xirnu" /><br/><sub><b>xirnu</b></sub></a></td><td width="110"></td><td width="110"></td></tr></table>
 <!-- CORE:END -->
 
 </div>
