@@ -187,7 +187,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **CORE** &nbsp;·&nbsp; <sub>ядро клана</sub>
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **CORE**
+
+<sub>*ядро клана*</sub>
 
 <br/>
 <br/>
@@ -253,12 +255,6 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" src="https://github-readme-stats-nu-seven-56.vercel.app/api/top-langs/?username=kodovye&layout=compact&theme=tokyonight&hide_border=true&bg_color=000B2E&title_color=00AAFF&text_color=c9d1d9&langs_count=8&hide=html,css&cache_seconds=14400" />
-</a>
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=kodovye&theme=algolia&no-frame=true&row=1&column=7&title=MultiLanguage,Commits,Followers,Repositories,Stars,PullRequest,Issues&margin-w=6" />
 </a>
 
 </div>
