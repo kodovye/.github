@@ -1,16 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:0033CC,100:000B2E&height=280&section=header&text=KODOVYE&fontSize=95&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=offensive%20security%20%E2%80%A2%20privacy%20tools%20%E2%80%A2%20internet%20freedom&descSize=20&descAlignY=62&stroke=00AAFF&strokeWidth=2" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.jpg" width="260" alt="Kodovye scorpion" />
-
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/hero.svg" width="100%" alt="KODOVYE — offensive security · privacy tools · internet freedom" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00AAFF&center=true&vCenter=true&width=640&lines=We+build+what+others+fear+to+ship.;Exploits.+OSINT.+Evasion.+Privacy.;Engineered+by+the+few%2C+for+the+many.;Код%E2%80%94наш+язык.+Скорпион%E2%80%94наш+герб." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00AAFF&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Kodovye+collective;%24+mission+%E2%86%92+build+what+others+fear+to+ship;%24+code+%E2%86%92+weapon+and+shield;%24+status+%E2%86%92+engineering+the+underground" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,30 +21,8 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=kodovye&style=for-the-badge&color=0066FF&label=CLAN+VIEWS&abbreviated=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## Кто мы
-
-</div>
-
-<div align="center">
-
-**Kodovye** — коллектив инженеров, исследователей и операторов.
-Мы пишем то, что другим не под силу: эксплоиты, RAT, инструменты OSINT и
-социальной инженерии, а также то, что возвращает людям контроль над их
-связью: VPN, обход блокировок, анти-цензурные протоколы.
-
-Наше кредо — **код как оружие и как щит**. Мы уважаем технику, уважаем друг
-друга и не уважаем границы, которые ставит между нами чужая бюрократия.
-
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00AAFF?style=for-the-badge&labelColor=000B2E" />
-<img src="https://img.shields.io/badge/MEMBERS-4%20operators-0066FF?style=for-the-badge&labelColor=000B2E" />
-<img src="https://img.shields.io/badge/SINCE-2024-0033CC?style=for-the-badge&labelColor=000B2E" />
+<img src="https://img.shields.io/badge/EST-2025-0033CC?style=for-the-badge&labelColor=000B2E" />
 
 </div>
 
@@ -59,15 +30,35 @@
 
 <div align="center">
 
-## Что мы делаем
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="28" align="top" />&nbsp;&nbsp; **КТО МЫ** &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="28" align="top" />
 
-| Offensive | Privacy | Intelligence | Dev |
+</div>
+
+> **Kodovye** — коллектив инженеров, исследователей и операторов.
+>
+> Мы пишем то, что другим не под силу: эксплоиты, RAT, инструменты OSINT и
+> социальной инженерии. Мы возвращаем людям контроль над их связью: VPN, обход
+> ТСПУ и белых списков, анти-цензурные протоколы.
+>
+> Наше кредо — **код как оружие и как щит**. Мы работаем на себя, пишем
+> для своих, и оставляем за собой право молчать.
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **ЧТО МЫ ДЕЛАЕМ**
+
+<br/>
+<br/>
+
+| **Offensive** | **Privacy** | **Intelligence** | **Engineering** |
 |:---:|:---:|:---:|:---:|
-| Exploit Research | VPN & Tunnels | OSINT | Automation |
-| RAT / C2 | TSPU bypass | Recon | Backend |
-| Social Engineering | Anti-DPI | Data Mining | Bots |
+| Exploit Research | VPN & Tunnels | OSINT | Backend / API |
+| RAT / C2 | TSPU Bypass | Recon | Automation |
+| Social Engineering | Anti-DPI | Data Mining | Bots & Scrapers |
 | Red Teaming | Protocol Obfuscation | Threat Intel | Fullstack |
-| Payload Dev | Anonymity Networks | Deep Web Research | Tooling |
+| Payload Development | Anonymity Networks | Deep-Web Research | Tooling |
 
 </div>
 
@@ -75,7 +66,7 @@
 
 <div align="center">
 
-## Arsenal & Stack
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **ARSENAL**
 
 ### Core Languages
 
@@ -121,7 +112,7 @@
 
 <div align="center">
 
-## Flagship Operations
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **FLAGSHIP OPERATIONS**
 
 </div>
 
@@ -129,14 +120,14 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-### VPN & Anti-DPI
+### VPN · Anti-DPI
 
 <img src="https://img.shields.io/badge/STATUS-LIVE-00AAFF?style=flat-square&labelColor=000B2E" />
 
-**KodovyeRobot** — VPN с обходом белых списков и глубокой инспекции пакетов.
+**KodovyeRobot** — VPN c обходом белых списков и глубокой инспекции пакетов.
 Работает там, где не работают другие.
 
-<a href="https://t.me/KodovyeRobot">→ t.me/KodovyeRobot</a>
+<a href="https://t.me/KodovyeRobot">t.me/KodovyeRobot</a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -146,9 +137,9 @@
 <img src="https://img.shields.io/badge/STATUS-LIVE-00AAFF?style=flat-square&labelColor=000B2E" />
 
 **kodomarket** — маркет инструментов и услуг. Готовые решения,
-кастомные разработки, консалтинг по безопасности.
+кастомные разработки, консалтинг.
 
-<a href="https://t.me/kodomarket_bot">→ t.me/kodomarket_bot</a>
+<a href="https://t.me/kodomarket_bot">t.me/kodomarket_bot</a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -157,10 +148,10 @@
 
 <img src="https://img.shields.io/badge/STATUS-LIVE-00AAFF?style=flat-square&labelColor=000B2E" />
 
-**kodovye_hub** — канал команды. Релизы, ресёрч, апдейты,
+**kodovye_hub** — канал клана: релизы, ресёрч, апдейты,
 закулисье разработки.
 
-<a href="https://t.me/kodovye_hub">→ t.me/kodovye_hub</a>
+<a href="https://t.me/kodovye_hub">t.me/kodovye_hub</a>
 
 </td>
 </tr>
@@ -170,7 +161,10 @@
 
 <div align="center">
 
-## Operators
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **OPERATORS**
+
+<br/>
+<br/>
 
 <a href="https://github.com/xirnu"><img src="https://github.com/xirnu.png" width="90" height="90" style="border-radius:50%" alt="xirnu" /></a>
 <a href="https://github.com/HopeXZ"><img src="https://github.com/HopeXZ.png" width="90" height="90" style="border-radius:50%" alt="HopeXZ" /></a>
@@ -190,7 +184,7 @@
 
 <div align="center">
 
-## Principles
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **PRINCIPLES**
 
 </div>
 
@@ -198,21 +192,21 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🜏 Техника
+### Техника
 
-- **Качество выше объёма** — лучше один рабочий эксплоит, чем десять PoC
+- **Качество выше объёма** — лучше один рабочий инструмент, чем десять PoC
 - **Понимание первично** — сначала разбираем, потом пишем
 - **Без магии** — если не можешь объяснить, не выкатываем в прод
-- **Reproducible builds** — каждый вывод должен быть повторяем
+- **Reproducible** — каждый билд должен быть повторяем
 
 </td>
 <td width="50%" valign="top">
 
-### 🜄 Коллектив
+### Коллектив
 
-- **Клан первичен** — свои не остаются в беде
+- **Клан первичен** — свои не остаются одни
 - **Без крыс** — доверие внутри, тишина снаружи
-- **Знания — общие** — любой разработчик должен уметь починить чужой код
+- **Знания общие** — любой оператор должен починить чужой код
 - **Без эго** — критика к коду, не к человеку
 
 </td>
@@ -223,7 +217,10 @@
 
 <div align="center">
 
-## Analytics
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **ANALYTICS**
+
+<br/>
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" src="https://github-readme-stats-nu-seven-56.vercel.app/api?username=kodovye&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000B2E&title_color=00AAFF&icon_color=00AAFF&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=14400" />
@@ -244,11 +241,15 @@
 
 <div align="center">
 
-## Присоединиться
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **ПРИСОЕДИНИТЬСЯ**
+
+<br/>
 
 Мы не набираем — мы **выбираем**.
 Если тебе нечего нам показать, тебе нечего у нас делать.
 Но если есть — пиши.
+
+<br/>
 
 <a href="https://t.me/kodovye_hub">
   <img src="https://img.shields.io/badge/Write_us-t.me%2Fkodovye__hub-00AAFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000B2E" />
@@ -259,6 +260,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000B2E,50:0033CC,100:0066FF&height=120&section=footer&animation=fadeIn" />
 
-<sub>⚡ We build quietly. We deliver loudly. ⚡</sub>
+<sub>We build quietly. We deliver loudly. — kodovye.biz</sub>
 
 </div>
