@@ -162,8 +162,8 @@
 
 <img src="https://img.shields.io/badge/STATUS-LIVE-00AAFF?style=flat-square&labelColor=000B2E" />
 
-**kodomarket** — маркет инструментов и услуг. Готовые решения,
-кастомные разработки, консалтинг.
+**kodomarket** — аккаунты Telegram и ChatGPT по самым низким ценам.
+Готовые наборы, кастомные запросы, мгновенная выдача.
 
 <a href="https://t.me/kodomarket_bot">t.me/kodomarket_bot</a>
 
