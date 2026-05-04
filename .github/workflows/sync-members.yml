@@ -21,7 +21,7 @@ jobs:
 
       - name: Fetch public org members
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.ORG_READ_TOKEN }}
         run: |
           set -euo pipefail
           gh api --paginate orgs/kodovye/members --jq '.[].login' | sort -u > /tmp/members.txt
