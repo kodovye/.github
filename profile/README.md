@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/hero.svg" width="100%" alt="KODOVYE — offensive security · privacy tools · internet freedom" />
+<img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/hero.svg" width="100%" alt="KODOVYE — build · break · defend" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00AAFF&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Kodovye+collective;%24+mission+%E2%86%92+build+what+others+fear+to+ship;%24+code+%E2%86%92+weapon+and+shield;%24+status+%E2%86%92+engineering+the+underground" alt="Typing SVG" />
