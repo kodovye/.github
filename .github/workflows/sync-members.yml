@@ -1,0 +1,47 @@
+name: Sync CORE members
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync-members.yml'
+      - '.github/scripts/update-members.py'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch public org members
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          gh api --paginate orgs/kodovye/members --jq '.[].login' | sort -u > /tmp/members.txt
+          if [ ! -s /tmp/members.txt ]; then
+            echo "No members returned — aborting."
+            exit 0
+          fi
+          echo "Members:"; cat /tmp/members.txt
+
+      - name: Regenerate README
+        run: python3 .github/scripts/update-members.py
+
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add profile/README.md
+            git commit -m "chore: auto-sync CORE members"
+            git push
+          else
+            echo "Nothing to commit."
+          fi
