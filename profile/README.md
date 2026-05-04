@@ -189,8 +189,6 @@
 
 <img src="https://raw.githubusercontent.com/kodovye/.github/main/assets/scorpion.svg" width="24" align="top" />&nbsp;&nbsp; **CORE**
 
-<sub>*ядро клана*</sub>
-
 <br/>
 <br/>
 
@@ -198,13 +196,6 @@
 <a href="https://github.com/MitsukiNemurez"><img src="https://github.com/MitsukiNemurez.png" width="90" height="90" style="border-radius:50%" alt="MitsukiNemurez" /></a>
 <a href="https://github.com/Pomidor8639"><img src="https://github.com/Pomidor8639.png" width="90" height="90" style="border-radius:50%" alt="Pomidor8639" /></a>
 <a href="https://github.com/xirnu"><img src="https://github.com/xirnu.png" width="90" height="90" style="border-radius:50%" alt="xirnu" /></a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/kodovye">
-  <img src="https://contrib.rocks/image?repo=kodovye/.github" />
-</a>
 
 </div>
 
